@@ -1,0 +1,101 @@
+.btn {
+  -webkit-border-radius: 100%;
+  -moz-border-radius: 100%;
+  border-radius: 100%;
+  font-family: Arial;
+  color: #333133;
+  font-size: 40px;
+  background: #F7F7F7;
+  padding: 134px 92px 134px 101px;
+  position: absolute;
+  float: right;
+  right: 150px;
+  top: 370px;
+  margin-left: 20px;
+  height: 44px;
+  width: 110px;
+    font-family:"Cormorant Garamond";
+}
+
+.btn:hover {
+  background-color: #ffffff;
+  text-decoration:  none;
+  font-size: 41px;
+  padding: 134px 94px 134px 102px;
+  position: absolute;
+  float: right;
+  right: 148px;
+  top: 369px;
+  margin-left: 20px;
+  height: 46px;
+  width: 110px;
+
+}
+.parent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.round{
+  border-radius: 70%;
+}
+.upsec{
+  padding: .8rem;
+  color: white;
+width: 45%;
+  backdrop-filter: blur(10px);
+margin-left: -4rem;
+display: inline-block;
+
+}
+
+a{
+  color: white;
+  text-decoration: none;
+  display: inline-block;
+margin: auto 20px;
+font-family: Roboto;
+}
+a:hover{
+  text-decoration-style: solid;
+  text-style: underline;
+  text-decoration: underline;
+  text-underline-offset: .9rem;
+}
+body{
+  text-align: right;
+  color: white;
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: Roboto;
+}
+hr{
+  width:47%;
+  background-color: white;
+  text-align: left;
+  display: inline-block;
+  border-bottom-width: thin;
+  border-top-width: thin;
+  border: none;
+  height: .1px;
+}
+p{
+  width: 33%;
+  margin-right: 500px;
+  text-align: left;
+  font-family:"Cormorant Garamond";
+  display: inline;
+  font-size: 1.3rem;
+}
+span{
+  margin: 10px;
+  font-family:"Cormorant Garamond";
+}
+svg{
+  margin: 0 0 10px 30px;
+  text-align: left;
+position: absolute;
+left: 20px;
+top: 24px;
+}
+images/background-home-desktop.jpg
